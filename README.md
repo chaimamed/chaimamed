@@ -2,12 +2,15 @@
 
 <img align="right" height="200" src="./demo.gif" alt="chaima gif" />
 
-### 💻 About Me  
-- 🚀 AI Researcher & Full Stack Developer  
-- ⚡ Passionate about **AI, IoT, Robotics, and Cutting-edge Tech**  
-- 🌱 Always learning, building, and pushing limits  
+### 💻 About Me
 
----
+-- 🚀 AI & Radiation Physics Explorer bridging Computer Science & Physics
+
+-- ⚡ Passionate about AI, IoT, Robotics, Nuclear & Medical Tech
+
+-- 🌍 Dreaming big: from innovative research to real-world impact
+
+-- 🌱 Always learning, experimenting, and pushing boundaries
 
 <h2 align="center">🤝 Connect With Me</h2>
 
