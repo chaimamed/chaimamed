@@ -6,7 +6,7 @@
 
 -- 🚀 AI & Radiation Physics Explorer bridging Computer Science & Physics
 
--- ⚡ Passionate about AI, IoT, Robotics, Nuclear & Medical Tech
+-- ⚡ Passionate about AI, IoT, Quantums Computing, Nuclear & Medical Tech
 
 -- 🌍 Dreaming big: from innovative research to real-world impact
 
